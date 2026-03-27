@@ -200,14 +200,6 @@
     "priority": 1
   },
   {
-    "id": "baofeng2",
-    "name": "🎬暴风APP",
-    "baseUrl": "https://app.bfzyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "lezi2",
     "name": "🎬乐子",
     "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
