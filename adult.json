@@ -80,6 +80,14 @@
     "priority": 5
   },
   {
+    "id": "modu",
+    "name": "🎬魔都资源",
+    "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "feifan",
     "name": "🎬非凡资源",
     "baseUrl": "https://api.ffzyapi.com/api.php/provide/vod",
@@ -360,14 +368,6 @@
     "priority": 5
   },
   {
-    "id": "heiliao",
-    "name": "🔞黑料资源",
-    "baseUrl": "https://www.heiliaozyapi.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "baiwan",
     "name": "🔞百万资源",
     "baseUrl": "https://api.bwzyz.com/api.php/provide/vod",
@@ -408,14 +408,6 @@
     "priority": 5
   },
   {
-    "id": "modu",
-    "name": "🎬魔都资源",
-    "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
     "id": "ffzy",
     "name": "🎬非凡资源",
     "baseUrl": "http://ffzy5.tv/api.php/provide/vod",
@@ -432,12 +424,21 @@
     "priority": 10
   },
   {
+    "id": "heiliao",
+    "name": "🔞黑料资源",
+    "baseUrl": "https://www.heiliaozyapi.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
     "id": "baofeng2",
     "name": "🎬暴风APP",
     "baseUrl": "https://app.bfzyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "超时/宕机"
   },
   {
@@ -446,88 +447,7 @@
     "baseUrl": "https://api.wwzy.tv/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 129,
-    "_comment": "搜索无结果"
-  },
-  {
-    "id": "yinghua",
-    "name": "🎬樱花资源",
-    "baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 129,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "ckzy",
-    "name": "🎬CK资源",
-    "baseUrl": "https://ckzy.me/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 129,
-    "_comment": "搜索无结果"
-  },
-  {
-    "id": "youyou",
-    "name": "🔞优优资源",
-    "baseUrl": "https://www.yyzywcj.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": false,
-    "priority": 129,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "danaizi",
-    "name": "🔞大奶子",
-    "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": false,
-    "priority": 129,
-    "_comment": "搜索无结果"
-  },
-  {
-    "id": "ck",
-    "name": "🔞CK资源",
-    "baseUrl": "https://www.ckzy1.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": false,
-    "priority": 129,
-    "_comment": "搜索无结果"
-  },
-  {
-    "id": "msnii",
-    "name": "🔞美少女资源",
-    "baseUrl": "https://www.msnii.com/api/json.php",
-    "group": "premium",
-    "enabled": false,
-    "priority": 129,
-    "_comment": "搜索无结果"
-  },
-  {
-    "id": "xrbsp",
-    "name": "🔞淫水机资源",
-    "baseUrl": "https://www.xrbsp.com/api/json.php",
-    "group": "premium",
-    "enabled": false,
-    "priority": 129,
-    "_comment": "搜索无结果"
-  },
-  {
-    "id": "kxgav",
-    "name": "🔞白嫖资源",
-    "baseUrl": "https://www.kxgav.com/api/json.php",
-    "group": "premium",
-    "enabled": false,
-    "priority": 129,
-    "_comment": "搜索无结果"
-  },
-  {
-    "id": "xibao",
-    "name": "🔞细胞采集",
-    "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": false,
-    "priority": 129,
+    "priority": 130,
     "_comment": "搜索无结果"
   },
   {
@@ -585,6 +505,15 @@
     "_comment": "接口解析错误"
   },
   {
+    "id": "yinghua",
+    "name": "🎬樱花资源",
+    "baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 130,
+    "_comment": "超时/宕机"
+  },
+  {
     "id": "xiaomaomi",
     "name": "🎬小猫咪资源",
     "baseUrl": "https://zy.xmm.hk/api.php/provide/vod",
@@ -592,6 +521,15 @@
     "enabled": false,
     "priority": 130,
     "_comment": "超时/宕机"
+  },
+  {
+    "id": "ckzy",
+    "name": "🎬CK资源",
+    "baseUrl": "https://ckzy.me/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 130,
+    "_comment": "搜索无结果"
   },
   {
     "id": "yaya",
@@ -664,5 +602,68 @@
     "enabled": false,
     "priority": 130,
     "_comment": "接口解析错误"
+  },
+  {
+    "id": "youyou",
+    "name": "🔞优优资源",
+    "baseUrl": "https://www.yyzywcj.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 130,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "danaizi",
+    "name": "🔞大奶子",
+    "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 130,
+    "_comment": "搜索无结果"
+  },
+  {
+    "id": "ck",
+    "name": "🔞CK资源",
+    "baseUrl": "https://www.ckzy1.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 130,
+    "_comment": "搜索无结果"
+  },
+  {
+    "id": "msnii",
+    "name": "🔞美少女资源",
+    "baseUrl": "https://www.msnii.com/api/json.php",
+    "group": "premium",
+    "enabled": false,
+    "priority": 130,
+    "_comment": "搜索无结果"
+  },
+  {
+    "id": "xrbsp",
+    "name": "🔞淫水机资源",
+    "baseUrl": "https://www.xrbsp.com/api/json.php",
+    "group": "premium",
+    "enabled": false,
+    "priority": 130,
+    "_comment": "搜索无结果"
+  },
+  {
+    "id": "kxgav",
+    "name": "🔞白嫖资源",
+    "baseUrl": "https://www.kxgav.com/api/json.php",
+    "group": "premium",
+    "enabled": false,
+    "priority": 130,
+    "_comment": "搜索无结果"
+  },
+  {
+    "id": "xibao",
+    "name": "🔞细胞采集",
+    "baseUrl": "https://www.xxibaozyw.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 130,
+    "_comment": "搜索无结果"
   }
 ]
