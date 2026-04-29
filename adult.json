@@ -200,6 +200,14 @@
     "priority": 5
   },
   {
+    "id": "ffzy",
+    "name": "🎬非凡资源",
+    "baseUrl": "http://ffzy5.tv/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "360zy2",
     "name": "🎬360资源",
     "baseUrl": "https://360zy.com/api.php/provide/vod",
@@ -416,20 +424,12 @@
     "priority": 10
   },
   {
-    "id": "ffzy",
-    "name": "🎬非凡资源",
-    "baseUrl": "http://ffzy5.tv/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
     "id": "jyzy",
     "name": "🎬金鹰资源",
     "baseUrl": "https://jyzyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 106,
+    "priority": 107,
     "_comment": "超时/宕机"
   },
   {
