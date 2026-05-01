@@ -429,7 +429,7 @@
     "baseUrl": "https://jyzyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 108,
+    "priority": 109,
     "_comment": "超时/宕机"
   },
   {
