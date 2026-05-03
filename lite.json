@@ -24,14 +24,6 @@
     "priority": 1
   },
   {
-    "id": "wolong",
-    "name": "🎬卧龙资源",
-    "baseUrl": "https://collect.wolongzy.cc/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "ikun",
     "name": "🎬iKun资源",
     "baseUrl": "https://ikunzyapi.com/api.php/provide/vod",
