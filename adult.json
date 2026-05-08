@@ -256,6 +256,14 @@
     "priority": 1
   },
   {
+    "id": "doudou",
+    "name": "🔞豆豆资源",
+    "baseUrl": "https://api.douapi.cc/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "didi",
     "name": "🔞滴滴资源",
     "baseUrl": "https://api.ddapi.cc/api.php/provide/vod",
@@ -310,6 +318,14 @@
     "group": "premium",
     "enabled": true,
     "priority": 1
+  },
+  {
+    "id": "maotai",
+    "name": "🎬茅台资源",
+    "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
   },
   {
     "id": "maoyan",
@@ -392,17 +408,9 @@
     "priority": 5
   },
   {
-    "id": "doudou",
-    "name": "🔞豆豆资源",
-    "baseUrl": "https://api.douapi.cc/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "guangsu",
-    "name": "🎬光速资源",
-    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
+    "id": "jinying",
+    "name": "🎬金鹰点播",
+    "baseUrl": "https://jinyingzy.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 10
@@ -416,22 +424,13 @@
     "priority": 10
   },
   {
-    "id": "maotai",
-    "name": "🎬茅台资源",
-    "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
+    "id": "guangsu",
+    "name": "🎬光速资源",
+    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
     "priority": 101,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "jinying",
-    "name": "🎬金鹰点播",
-    "baseUrl": "https://jinyingzy.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "超时/宕机"
+    "_comment": "接口解析错误"
   },
   {
     "id": "wolong",
@@ -439,7 +438,7 @@
     "baseUrl": "https://collect.wolongzy.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 105,
+    "priority": 106,
     "_comment": "超时/宕机"
   },
   {
@@ -448,7 +447,7 @@
     "baseUrl": "https://jyzyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 115,
+    "priority": 116,
     "_comment": "超时/宕机"
   },
   {
@@ -629,7 +628,7 @@
     "group": "premium",
     "enabled": false,
     "priority": 130,
-    "_comment": "搜索无结果"
+    "_comment": "超时/宕机"
   },
   {
     "id": "msnii",
