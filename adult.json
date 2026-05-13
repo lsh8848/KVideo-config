@@ -304,6 +304,14 @@
     "priority": 1
   },
   {
+    "id": "dbzy",
+    "name": "🎬豆瓣资源",
+    "baseUrl": "https://caiji.dbzy5.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "maotai",
     "name": "🎬茅台资源",
     "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
@@ -424,13 +432,12 @@
     "priority": 10
   },
   {
-    "id": "dbzy",
-    "name": "🎬豆瓣资源",
-    "baseUrl": "https://caiji.dbzy5.com/api.php/provide/vod",
+    "id": "jyzy",
+    "name": "🎬金鹰资源",
+    "baseUrl": "https://jyzyapi.com/api.php/provide/vod",
     "group": "normal",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "wolong",
@@ -438,16 +445,7 @@
     "baseUrl": "https://collect.wolongzy.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 110,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "jyzy",
-    "name": "🎬金鹰资源",
-    "baseUrl": "https://jyzyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 120,
+    "priority": 111,
     "_comment": "超时/宕机"
   },
   {
