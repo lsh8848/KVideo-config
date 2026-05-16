@@ -445,7 +445,7 @@
     "baseUrl": "https://collect.wolongzy.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 113,
+    "priority": 114,
     "_comment": "超时/宕机"
   },
   {
