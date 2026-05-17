@@ -328,14 +328,6 @@
     "priority": 5
   },
   {
-    "id": "uku",
-    "name": "🎬U酷影视",
-    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "lzi",
     "name": "🎬量子资源站",
     "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
@@ -440,12 +432,21 @@
     "priority": 10
   },
   {
+    "id": "uku",
+    "name": "🎬U酷影视",
+    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
     "id": "wolong",
     "name": "🎬卧龙资源",
     "baseUrl": "https://collect.wolongzy.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 114,
+    "priority": 115,
     "_comment": "超时/宕机"
   },
   {
