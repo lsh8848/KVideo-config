@@ -32,14 +32,6 @@
     "priority": 1
   },
   {
-    "id": "jisu",
-    "name": "🎬极速资源",
-    "baseUrl": "https://jszyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "modu",
     "name": "🎬魔都资源",
     "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
@@ -336,6 +328,14 @@
     "priority": 5
   },
   {
+    "id": "uku",
+    "name": "🎬U酷影视",
+    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "lzi",
     "name": "🎬量子资源站",
     "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
@@ -432,13 +432,13 @@
     "priority": 10
   },
   {
-    "id": "uku",
-    "name": "🎬U酷影视",
-    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
+    "id": "jisu",
+    "name": "🎬极速资源",
+    "baseUrl": "https://jszyapi.com/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 102,
-    "_comment": "超时/宕机"
+    "priority": 101,
+    "_comment": "接口解析错误"
   },
   {
     "id": "wolong",
@@ -446,7 +446,7 @@
     "baseUrl": "https://collect.wolongzy.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 116,
+    "priority": 117,
     "_comment": "超时/宕机"
   },
   {
