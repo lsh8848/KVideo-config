@@ -224,6 +224,22 @@
     "priority": 5
   },
   {
+    "id": "wujin2",
+    "name": "🎬无尽资源cc",
+    "baseUrl": "https://api.wujinapi.cc/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "wjzy",
+    "name": "🎬无尽资源com",
+    "baseUrl": "https://api.wujinapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "jinying",
     "name": "🎬金鹰点播",
     "baseUrl": "https://jinyingzy.com/api.php/provide/vod",
