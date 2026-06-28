@@ -80,6 +80,22 @@
     "priority": 1
   },
   {
+    "id": "wujin2",
+    "name": "🎬无尽资源cc",
+    "baseUrl": "https://api.wujinapi.cc/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "wjzy",
+    "name": "🎬无尽资源com",
+    "baseUrl": "https://api.wujinapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "piaoling",
     "name": "🎬飘零资源",
     "baseUrl": "https://p2100.net/api.php/provide/vod",
@@ -216,22 +232,6 @@
     "priority": 5
   },
   {
-    "id": "wujin2",
-    "name": "🎬无尽资源cc",
-    "baseUrl": "https://api.wujinapi.cc/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "wjzy",
-    "name": "🎬无尽资源com",
-    "baseUrl": "https://api.wujinapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "subo",
     "name": "🎬速播资源",
     "baseUrl": "https://subocaiji.com/api.php/provide/vod",
@@ -254,6 +254,14 @@
     "group": "normal",
     "enabled": true,
     "priority": 5
+  },
+  {
+    "id": "xinlang",
+    "name": "🎬新浪资源",
+    "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "uku",
