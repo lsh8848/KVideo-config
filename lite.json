@@ -240,6 +240,14 @@
     "priority": 5
   },
   {
+    "id": "huya",
+    "name": "🎬虎牙资源",
+    "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "jisu",
     "name": "🎬极速资源",
     "baseUrl": "https://jszyapi.com/api.php/provide/vod",
