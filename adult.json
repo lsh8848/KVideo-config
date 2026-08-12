@@ -336,6 +336,14 @@
     "priority": 5
   },
   {
+    "id": "ryzy",
+    "name": "🎬如意资源",
+    "baseUrl": "https://cj.rycjapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "huya",
     "name": "🎬虎牙资源",
     "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
@@ -390,15 +398,6 @@
     "group": "normal",
     "enabled": true,
     "priority": 10
-  },
-  {
-    "id": "ryzy",
-    "name": "🎬如意资源",
-    "baseUrl": "https://cj.rycjapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "接口解析错误"
   },
   {
     "id": "dbzy",
