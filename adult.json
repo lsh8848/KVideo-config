@@ -120,6 +120,14 @@
     "priority": 5
   },
   {
+    "id": "uku",
+    "name": "🎬U酷影视",
+    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "guangsu",
     "name": "🎬光速资源",
     "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
@@ -144,6 +152,22 @@
     "priority": 5
   },
   {
+    "id": "sbzy",
+    "name": "🎬速博资源",
+    "baseUrl": "https://subocaiji.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "feifan",
+    "name": "🎬非凡资源",
+    "baseUrl": "https://api.ffzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
     "id": "xinlang",
     "name": "🎬新浪资源",
     "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
@@ -160,273 +184,220 @@
     "priority": 10
   },
   {
-    "id": "uku",
-    "name": "🎬U酷影视",
-    "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "sbzy",
-    "name": "🎬速博资源",
-    "baseUrl": "https://subocaiji.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 100,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "feifan",
-    "name": "🎬非凡资源",
-    "baseUrl": "https://api.ffzyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
-  },
-  {
     "id": "ryzy",
     "name": "🎬如意资源",
     "baseUrl": "https://cj.rycjapi.com/api.php/provide/vod",
     "group": "normal",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "hhzy",
     "name": "🎬豪华资源",
     "baseUrl": "https://hhzyapi.com/api.php/provide/vod",
     "group": "normal",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "ffzy",
     "name": "🎬非凡资源",
     "baseUrl": "http://ffzy5.tv/api.php/provide/vod",
     "group": "normal",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "360zy2",
     "name": "🎬360资源",
     "baseUrl": "https://360zy.com/api.php/provide/vod",
     "group": "normal",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "lzi",
     "name": "🎬量子资源站",
     "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
     "group": "normal",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "jyzy",
     "name": "🎬金鹰资源",
     "baseUrl": "https://jyzyapi.com/api.php/provide/vod",
     "group": "normal",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "huya",
     "name": "🎬虎牙资源",
     "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
     "group": "normal",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "jiangyu",
     "name": "🎬鲸鱼资源",
     "baseUrl": "https://jyzyapi.com/provide/vod",
     "group": "normal",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "feifancj2",
     "name": "🎬非凡资源",
     "baseUrl": "https://api.ffzyapi.com/api.php/provide/vod",
     "group": "normal",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "lezi2",
     "name": "🎬乐子",
     "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
     "group": "normal",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "hongniu3",
     "name": "🎬红牛资源3",
     "baseUrl": "https://www.hongniuzy3.com/api.php/provide/vod",
     "group": "normal",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "alvin",
     "name": "🔞--AIvin-",
     "baseUrl": "http://lbapiby.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "155zy",
     "name": "🔞155-资源",
     "baseUrl": "https://155api.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "yutu",
     "name": "🔞玉兔资源",
     "baseUrl": "https://apiyutu.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "lsbzy",
     "name": "🔞-老色逼-",
     "baseUrl": "https://apilsbzy1.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "xiaoji",
     "name": "🔞小鸡资源",
     "baseUrl": "https://api.xiaojizy.live/provide/vod",
     "group": "premium",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "hsck",
     "name": "🔞黄色仓库",
     "baseUrl": "https://hsckzy888.com/api.php/provide/vod/",
     "group": "premium",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "jkun",
     "name": "🔞jkun资源",
     "baseUrl": "https://jkunzyapi.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "lebo",
     "name": "🔞乐播资源",
     "baseUrl": "https://lbapi9.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "naixiang",
     "name": "🔞奶香资源",
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "doudou",
     "name": "🔞豆豆资源",
     "baseUrl": "https://api.douapi.cc/api.php/provide/vod",
     "group": "premium",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "didi",
     "name": "🔞滴滴资源",
     "baseUrl": "https://api.ddapi.cc/api.php/provide/vod",
     "group": "premium",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "heiliao",
     "name": "🔞黑料资源",
     "baseUrl": "https://www.heiliaozyapi.com/api.php/provide/vod",
     "group": "premium",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "taohua",
     "name": "🔞桃花资源",
     "baseUrl": "https://thzy1.me/api.php/provide/vod",
     "group": "premium",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "souav",
     "name": "🔞搜AV资源",
     "baseUrl": "https://api.souavzyw.net/api.php/provide/vod",
     "group": "premium",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "pgxdy",
     "name": "🔞黄AVZY",
     "baseUrl": "https://www.pgxdy.com/api/json.php",
     "group": "premium",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "gdlsp",
     "name": "🔞香奶儿资源",
     "baseUrl": "https://www.gdlsp.com/api/json.php",
     "group": "premium",
-    "enabled": false,
-    "priority": 104,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "dbzy",
@@ -462,7 +433,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "接口解析错误"
   },
   {
     "id": "piaoling",
@@ -507,7 +478,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "接口解析错误"
   },
   {
     "id": "yinghua",
@@ -534,7 +505,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "搜索无结果"
   },
   {
     "id": "yaya",
@@ -543,7 +514,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "接口解析错误"
   },
   {
     "id": "tyzy",
@@ -552,7 +523,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "接口解析错误"
   },
   {
     "id": "nnzy",
@@ -561,7 +532,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "接口解析错误"
   },
   {
     "id": "snzy",
@@ -570,7 +541,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "接口解析错误"
   },
   {
     "id": "sdzy",
@@ -579,7 +550,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "接口解析错误"
   },
   {
     "id": "baofeng2",
@@ -597,7 +568,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "接口解析错误"
   },
   {
     "id": "bubugao",
@@ -615,7 +586,7 @@
     "group": "normal",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "接口解析错误"
   },
   {
     "id": "youyou",
@@ -633,7 +604,7 @@
     "group": "premium",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "搜索无结果"
   },
   {
     "id": "senlin",
@@ -642,7 +613,7 @@
     "group": "premium",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "接口解析错误"
   },
   {
     "id": "baiwan",
@@ -660,7 +631,7 @@
     "group": "premium",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "搜索无结果"
   },
   {
     "id": "msnii",
@@ -669,7 +640,7 @@
     "group": "premium",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "搜索无结果"
   },
   {
     "id": "xrbsp",
@@ -678,7 +649,7 @@
     "group": "premium",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "搜索无结果"
   },
   {
     "id": "kxgav",
@@ -687,7 +658,7 @@
     "group": "premium",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "搜索无结果"
   },
   {
     "id": "xibao",
@@ -696,6 +667,6 @@
     "group": "premium",
     "enabled": false,
     "priority": 130,
-    "_comment": "超时/宕机"
+    "_comment": "搜索无结果"
   }
 ]
