@@ -32,14 +32,6 @@
     "priority": 1
   },
   {
-    "id": "modu",
-    "name": "🎬魔都资源",
-    "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "iqiyi",
     "name": "🎬爱奇艺资源",
     "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
@@ -112,6 +104,14 @@
     "priority": 5
   },
   {
+    "id": "xinlang",
+    "name": "🎬新浪资源",
+    "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "subo",
     "name": "🎬速播资源",
     "baseUrl": "https://subocaiji.com/api.php/provide/vod",
@@ -144,14 +144,6 @@
     "priority": 5
   },
   {
-    "id": "modudm",
-    "name": "🎬魔都动漫",
-    "baseUrl": "https://caiji.moduapi.cc/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "sbzy",
     "name": "🎬速博资源",
     "baseUrl": "https://subocaiji.com/api.php/provide/vod",
@@ -163,14 +155,6 @@
     "id": "feifan",
     "name": "🎬非凡资源",
     "baseUrl": "https://api.ffzyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
-    "id": "xinlang",
-    "name": "🎬新浪资源",
-    "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 10
