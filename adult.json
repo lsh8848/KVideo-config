@@ -396,9 +396,8 @@
     "name": "🔞搜AV资源",
     "baseUrl": "https://api.souavzyw.net/api.php/provide/vod",
     "group": "premium",
-    "enabled": false,
-    "priority": 102,
-    "_comment": "超时/宕机"
+    "enabled": true,
+    "priority": 5
   },
   {
     "id": "piaoling",
@@ -406,7 +405,7 @@
     "baseUrl": "https://p2100.net/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 110,
+    "priority": 111,
     "_comment": "超时/宕机"
   },
   {
