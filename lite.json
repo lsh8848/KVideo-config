@@ -1,5 +1,13 @@
 [
   {
+    "id": "iqiyi",
+    "name": "🎬爱奇艺资源",
+    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "ikun",
     "name": "🎬iKun资源",
     "baseUrl": "https://ikunzyapi.com/api.php/provide/vod",
@@ -222,37 +230,5 @@
     "group": "normal",
     "enabled": true,
     "priority": 1
-  },
-  {
-    "id": "iqiyi",
-    "name": "🎬爱奇艺资源",
-    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "wujin",
-    "name": "🎬无尽资源me",
-    "baseUrl": "https://api.wujinapi.me/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "wujinnet",
-    "name": "🎬无尽NET",
-    "baseUrl": "https://api.wujinapi.net/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "wujin2",
-    "name": "🎬无尽资源cc",
-    "baseUrl": "https://api.wujinapi.cc/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
   }
 ]
