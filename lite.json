@@ -104,6 +104,14 @@
     "priority": 1
   },
   {
+    "id": "subo",
+    "name": "🎬速播资源",
+    "baseUrl": "https://subocaiji.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "uku",
     "name": "🎬U酷影视",
     "baseUrl": "https://api.ukuapi88.com/api.php/provide/vod",
@@ -160,6 +168,14 @@
     "priority": 1
   },
   {
+    "id": "sbzy",
+    "name": "🎬速博资源",
+    "baseUrl": "https://subocaiji.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
     "id": "huya",
     "name": "🎬虎牙资源",
     "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
@@ -192,14 +208,6 @@
     "priority": 5
   },
   {
-    "id": "subo",
-    "name": "🎬速播资源",
-    "baseUrl": "https://subocaiji.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "jinying",
     "name": "🎬金鹰点播",
     "baseUrl": "https://jinyingzy.com/api.php/provide/vod",
@@ -219,14 +227,6 @@
     "id": "hongniu",
     "name": "🎬红牛资源2",
     "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "sbzy",
-    "name": "🎬速博资源",
-    "baseUrl": "https://subocaiji.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
