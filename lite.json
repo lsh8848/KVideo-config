@@ -184,6 +184,14 @@
     "priority": 1
   },
   {
+    "id": "modu",
+    "name": "🎬魔都资源",
+    "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "baofeng",
     "name": "🎬暴风资源",
     "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
@@ -216,6 +224,14 @@
     "priority": 5
   },
   {
+    "id": "modudm",
+    "name": "🎬魔都动漫",
+    "baseUrl": "https://caiji.moduapi.cc/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "jyzy",
     "name": "🎬金鹰资源",
     "baseUrl": "https://jyzyapi.com/api.php/provide/vod",
@@ -238,6 +254,14 @@
     "group": "normal",
     "enabled": true,
     "priority": 5
+  },
+  {
+    "id": "iqiyi",
+    "name": "🎬爱奇艺资源",
+    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
   },
   {
     "id": "xinlang",
