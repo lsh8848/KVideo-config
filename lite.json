@@ -176,6 +176,14 @@
     "priority": 1
   },
   {
+    "id": "iqiyi",
+    "name": "🎬爱奇艺资源",
+    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "modu",
     "name": "🎬魔都资源",
     "baseUrl": "https://www.mdzyapi.com/api.php/provide/vod",
@@ -254,14 +262,6 @@
     "group": "normal",
     "enabled": true,
     "priority": 5
-  },
-  {
-    "id": "iqiyi",
-    "name": "🎬爱奇艺资源",
-    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
   },
   {
     "id": "xinlang",
