@@ -152,6 +152,14 @@
     "priority": 1
   },
   {
+    "id": "iqiyi",
+    "name": "🎬爱奇艺资源",
+    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "jisu",
     "name": "🎬极速资源",
     "baseUrl": "https://jszyapi.com/api.php/provide/vod",
@@ -232,28 +240,12 @@
     "priority": 5
   },
   {
-    "id": "jiangyu",
-    "name": "🎬鲸鱼资源",
-    "baseUrl": "https://jyzyapi.com/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "hongniu3",
     "name": "🎬红牛资源3",
     "baseUrl": "https://www.hongniuzy3.com/api.php/provide/vod",
     "group": "normal",
     "enabled": true,
     "priority": 5
-  },
-  {
-    "id": "iqiyi",
-    "name": "🎬爱奇艺资源",
-    "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
   },
   {
     "id": "xinlang",
