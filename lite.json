@@ -240,6 +240,14 @@
     "priority": 5
   },
   {
+    "id": "jiangyu",
+    "name": "🎬鲸鱼资源",
+    "baseUrl": "https://jyzyapi.com/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "hongniu3",
     "name": "🎬红牛资源3",
     "baseUrl": "https://www.hongniuzy3.com/api.php/provide/vod",
