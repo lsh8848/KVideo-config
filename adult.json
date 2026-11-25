@@ -200,14 +200,6 @@
     "priority": 1
   },
   {
-    "id": "hsck",
-    "name": "🔞黄色仓库",
-    "baseUrl": "https://hsckzy888.com/api.php/provide/vod/",
-    "group": "premium",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "jkun",
     "name": "🔞jkun资源",
     "baseUrl": "https://jkunzyapi.com/api.php/provide/vod",
@@ -376,22 +368,6 @@
     "priority": 5
   },
   {
-    "id": "huya",
-    "name": "🎬虎牙资源",
-    "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
-    "id": "jiangyu",
-    "name": "🎬鲸鱼资源",
-    "baseUrl": "https://jyzyapi.com/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "baofeng2",
     "name": "🎬暴风APP",
     "baseUrl": "https://app.bfzyapi.com/api.php/provide/vod",
@@ -400,12 +376,39 @@
     "priority": 10
   },
   {
+    "id": "huya",
+    "name": "🎬虎牙资源",
+    "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "接口解析错误"
+  },
+  {
+    "id": "jiangyu",
+    "name": "🎬鲸鱼资源",
+    "baseUrl": "https://jyzyapi.com/provide/vod",
+    "group": "normal",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "接口解析错误"
+  },
+  {
+    "id": "hsck",
+    "name": "🔞黄色仓库",
+    "baseUrl": "https://hsckzy888.com/api.php/provide/vod/",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
     "id": "naixiang",
     "name": "🔞奶香资源",
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 122,
+    "priority": 123,
     "_comment": "接口解析错误"
   },
   {
