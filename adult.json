@@ -264,22 +264,6 @@
     "priority": 1
   },
   {
-    "id": "pgxdy",
-    "name": "🔞黄AVZY",
-    "baseUrl": "https://www.pgxdy.com/api/json.php",
-    "group": "premium",
-    "enabled": true,
-    "priority": 1
-  },
-  {
-    "id": "gdlsp",
-    "name": "🔞香奶儿资源",
-    "baseUrl": "https://www.gdlsp.com/api/json.php",
-    "group": "premium",
-    "enabled": true,
-    "priority": 1
-  },
-  {
     "id": "iqiyi",
     "name": "🎬爱奇艺资源",
     "baseUrl": "https://iqiyizyapi.com/api.php/provide/vod",
@@ -368,35 +352,50 @@
     "priority": 5
   },
   {
-    "id": "baofeng2",
-    "name": "🎬暴风APP",
-    "baseUrl": "https://app.bfzyapi.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 10
-  },
-  {
     "id": "huya",
     "name": "🎬虎牙资源",
     "baseUrl": "https://www.huyaapi.com/api.php/provide/vod",
     "group": "normal",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "接口解析错误"
+    "enabled": true,
+    "priority": 5
   },
   {
     "id": "jiangyu",
     "name": "🎬鲸鱼资源",
     "baseUrl": "https://jyzyapi.com/provide/vod",
     "group": "normal",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "接口解析错误"
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "baofeng2",
+    "name": "🎬暴风APP",
+    "baseUrl": "https://app.bfzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
   },
   {
     "id": "hsck",
     "name": "🔞黄色仓库",
     "baseUrl": "https://hsckzy888.com/api.php/provide/vod/",
+    "group": "premium",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "pgxdy",
+    "name": "🔞黄AVZY",
+    "baseUrl": "https://www.pgxdy.com/api/json.php",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "gdlsp",
+    "name": "🔞香奶儿资源",
+    "baseUrl": "https://www.gdlsp.com/api/json.php",
     "group": "premium",
     "enabled": false,
     "priority": 101,
@@ -408,7 +407,7 @@
     "baseUrl": "https://Naixxzy.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 123,
+    "priority": 124,
     "_comment": "接口解析错误"
   },
   {
@@ -643,7 +642,7 @@
     "group": "premium",
     "enabled": false,
     "priority": 130,
-    "_comment": "搜索无结果"
+    "_comment": "超时/宕机"
   },
   {
     "id": "xrbsp",
@@ -652,7 +651,7 @@
     "group": "premium",
     "enabled": false,
     "priority": 130,
-    "_comment": "搜索无结果"
+    "_comment": "超时/宕机"
   },
   {
     "id": "kxgav",
@@ -661,7 +660,7 @@
     "group": "premium",
     "enabled": false,
     "priority": 130,
-    "_comment": "搜索无结果"
+    "_comment": "超时/宕机"
   },
   {
     "id": "xibao",
